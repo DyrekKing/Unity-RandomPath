@@ -7,4 +7,7 @@ This is an algorithm written in C# and the Unity game engine. It can be used to 
 I've uploaded the whole Unity project, so you can just download, and add it to Unity Hub.
 
 ## Example Video
-Uploading x.mp4…
+
+
+https://github.com/DyrekKing/Unity-RandomPath/assets/68273911/1ac3f26f-1d4f-46c8-a1a0-8cf3fc8174b5
+
